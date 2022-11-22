@@ -1,6 +1,6 @@
-Massively by HTML5 UP
+SIMPLE GUIDE TO NCT by Vera Beatrix B. Ragasa
 html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+NCT or also known as Neo Culture Technology, a K-pop group launched by SM Entertainment, debuted in 2016. It has a very unique concept as it is a group made up of an unlimited number of members divided into multiple sub-units. Currently, NCT has 23 members and four different units which are NCT U, NCT Dream, WayV and NCT 127.
 
 
 This is Massively, a text-heavy, article-oriented design built around a huge background
